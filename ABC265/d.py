@@ -1,3 +1,5 @@
+#解けていないコード
+
 def binary_search(S,st):
     length = len(S)
     head = 0
